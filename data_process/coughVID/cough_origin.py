@@ -6,10 +6,10 @@ import os.path as osp
 import pandas as pd
 from pydub import AudioSegment
 
-out_dir = "/wangbenyou/bufan/dataset/CoughVID/build_origin"
+out_dir = "~/dataset/CoughVID/build_origin"
 
 os.makedirs(out_dir, exist_ok=True)
-json_out_dir = "/wangbenyou/bufan/dataset/CoughVID"
+json_out_dir = "~/dataset/CoughVID"
 
 get_count=200
 def dump_json(json_filename, dump_data):

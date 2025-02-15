@@ -9,7 +9,7 @@ def dump_json(json_filename, dump_data):
     :param dump_data:
     :return:
     """
-    json_out_dir = "/mnt/user/bufan/speech_data/speech_wav/VCTK"
+    json_out_dir = "~/speech_data/speech_wav/VCTK"
     with open(osp.join(json_out_dir, json_filename), 'w') as f:
         json.dump(dump_data, f)
 
@@ -44,10 +44,10 @@ def get_speaker_gender(speaker_dict,speaker):
 
 
 
-speaker_filepath = "/mnt/user/bufan/speech_data/speech_wav/VCTK/VCTK-Corpus/speaker-info.txt"
+speaker_filepath = "~/speech_data/speech_wav/VCTK/VCTK-Corpus/speaker-info.txt"
 speaker_dict = read_spk_file(speaker_filepath)
 
-base_wav_dir = "/mnt/user/bufan/speech_data/speech_wav/VCTK/VCTK-Corpus/wav48"
+base_wav_dir = "~/speech_data/speech_wav/VCTK/VCTK-Corpus/wav48"
 all_list = list()
 for speaker_dir in os.listdir(base_wav_dir):
     if speaker_dir not in speaker_dict.keys():

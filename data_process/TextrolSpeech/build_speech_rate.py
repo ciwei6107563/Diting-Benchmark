@@ -21,7 +21,7 @@ def dump_json(json_filename, dump_data):
     :param dump_data:
     :return:
     """
-    json_out_dir = "/home/zhiyu/speech_data/TextrolSpeech"
+    json_out_dir = "~/speech_data/TextrolSpeech"
     with open(osp.join(json_out_dir, json_filename), 'w') as f:
         json.dump(dump_data, f, ensure_ascii=False, indent=4)
 
@@ -67,7 +67,7 @@ def load_json(file_path):
 
 
 if __name__ == "__main__":
-    input_file = '/home/zhiyu/speech_data/TextrolSpeech/libritts.json'  # 输入 JSON 文件路径
+    input_file = '~/speech_data/TextrolSpeech/libritts.json'  # 输入 JSON 文件路径
 
     # 加载 JSON 数据
     data = load_json(input_file)

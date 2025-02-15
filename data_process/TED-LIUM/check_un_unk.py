@@ -3,7 +3,7 @@ import os
 from pydub import AudioSegment
 from pydub.silence import detect_silence
 
-audio_root = "/home/zhiyu/speech_data/TED-LIUM"  # 音频文件的根目录
+audio_root = "~/speech_data/TED-LIUM"  # 音频文件的根目录
 
 
 # 停顿检测函数
@@ -72,7 +72,7 @@ def find_json_files(directory):
 
 
 if __name__ == '__main__':
-    directory = "/home/zhiyu/speech_data/TED-LIUM/TEDLIUM_split"
+    directory = "~/speech_data/TED-LIUM/TEDLIUM_split"
     json_files = find_json_files(directory)
     for json_filepath in json_files:
         process_json(json_filepath)

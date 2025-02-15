@@ -11,7 +11,7 @@ def dump_json(json_filename, dump_data):
     :param dump_data:
     :return:
     """
-    json_out_dir = "/mnt/user/bufan/speech_data/speech_wav/LibriSpeech"
+    json_out_dir = "~/speech_data/speech_wav/LibriSpeech"
     with open(osp.join(json_out_dir, json_filename), 'w') as f:
         json.dump(dump_data, f)
 
@@ -38,7 +38,7 @@ def get_text(flac_filepath):
     return read_text_from_file()[filename]
 
 
-directory = "/mnt/user/bufan/speech_data/speech_wav/LibriSpeech/LibriSpeech"
+directory = "~/speech_data/speech_wav/LibriSpeech/LibriSpeech"
 all_list = list()
 for root, dirs, files in os.walk(directory):
     for file in files:

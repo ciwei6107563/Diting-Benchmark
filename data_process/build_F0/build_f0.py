@@ -35,7 +35,7 @@ def dump_json(json_filename, dump_data):
     :param dump_data:
     :return:
     """
-    json_out_dir = "/wangbenyou/bufan/speech_wav/SpeechAccentArchive"
+    json_out_dir = "~/speech_wav/SpeechAccentArchive"
     with open(osp.join(json_out_dir, json_filename), 'w') as f:
         json.dump(dump_data, f)
 

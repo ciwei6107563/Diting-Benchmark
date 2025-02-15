@@ -1,7 +1,7 @@
 import pandas as pd
 
 # 读取CSV文件
-df = pd.read_csv(r'C:\Users\23225\PycharmProjects\SpeechDataPreprocess\coughVID\metadata_compiled.csv')
+df = pd.read_csv(r'~\coughVID\metadata_compiled.csv')
 
 # 指定要检查的列
 columns_to_check = ['quality_1', 'quality_2', 'quality_3', 'quality_4']

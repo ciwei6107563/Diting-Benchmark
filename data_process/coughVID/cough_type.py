@@ -6,10 +6,10 @@ import os.path as osp
 import pandas as pd
 from pydub import AudioSegment
 
-out_dir = "/wangbenyou/bufan/dataset/CoughVID/build"
+out_dir = "~/dataset/CoughVID/build"
 
 os.makedirs(out_dir, exist_ok=True)
-json_out_dir = "/wangbenyou/bufan/dataset/CoughVID"
+json_out_dir = "~/dataset/CoughVID"
 
 get_count=300
 def dump_json(json_filename, dump_data):
@@ -24,7 +24,7 @@ def dump_json(json_filename, dump_data):
 
 
 # 指定文件夹路径
-base_dir = "/wangbenyou/bufan/dataset/CoughVID/coughvid_20211012"
+base_dir = "~/dataset/CoughVID/coughvid_20211012"
 # 遍历文件夹中的所有文件
 all_list = list()
 wet_filepath = 'four_non_nan_wet.csv'  # 替换为你的 CSV 文件路径

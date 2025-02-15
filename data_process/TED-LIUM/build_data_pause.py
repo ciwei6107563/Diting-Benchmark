@@ -61,12 +61,12 @@ def dump_json(json_filename, dump_data):
     :param dump_data:
     :return:
     """
-    json_out_dir = "/home/zhiyu/speech_data/TED-LIUM"
+    json_out_dir = "~/speech_data/TED-LIUM"
     with open(osp.join(json_out_dir, json_filename), 'w') as f:
         json.dump(dump_data, f, ensure_ascii=False, indent=4)
 
 if __name__ == '__main__':
-    directory = "/home/zhiyu/speech_data/TED-LIUM/TEDLIUM_split"
+    directory = "~/speech_data/TED-LIUM/TEDLIUM_split"
     print(directory)
     new_list = deal_data(directory)
     dump_json(json_filename="Q_%s.json" % "Pauses Detection".replace(" ", "_"),

@@ -10,11 +10,11 @@ def dump_json(json_filename, dump_data):
     :param dump_data:
     :return:
     """
-    json_out_dir = "/mnt/user/bufan/speech_data/speech_wav/VCTK"
+    json_out_dir = "~/speech_wav/VCTK"
     with open(osp.join(json_out_dir, json_filename), 'w') as f:
         json.dump(dump_data, f)
 
-directory = "/mnt/user/bufan/speech_data/speech_wav/Noisy-speech-database"
+directory = "~/speech_wav/Noisy-speech-database"
 all_list = list()
 for root, dirs, files in os.walk(directory):
     for file in files:

@@ -29,7 +29,7 @@ def dump_json(json_filename, dump_data):
     :param dump_data:
     :return:
     """
-    json_out_dir = "/mnt/user/bufan/speech_data/speech_wav/Europarl-ST"
+    json_out_dir = "~/speech_data/speech_wav/Europarl-ST"
     with open(osp.join(json_out_dir, json_filename), 'w') as f:
         json.dump(dump_data, f)
 
@@ -46,8 +46,8 @@ def get_language(file_dir):
 
 
 # 指定要遍历的文件夹路径
-folder_path = "/mnt/user/bufan/speech_data/speech_wav/Europarl-ST"  # 请替换为你的文件夹路径
-out_dir = "/mnt/user/bufan/speech_data/speech_wav/Europarl-ST/build"
+folder_path = "~/speech_data/speech_wav/Europarl-ST"  # 请替换为你的文件夹路径
+out_dir = "~/speech_data/speech_wav/Europarl-ST/build"
 os.makedirs(out_dir,exist_ok=True)
 
 all_list = list()

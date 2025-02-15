@@ -9,7 +9,7 @@ def dump_json(json_filename, dump_data):
     :param dump_data:
     :return:
     """
-    json_out_dir = "/home/zhiyu/speech_data/LungSongs"
+    json_out_dir = "~/speech_data/LungSongs"
     with open(osp.join(json_out_dir, json_filename), 'w') as f:
         json.dump(dump_data, f, ensure_ascii=False, indent=4)
 def categorize_wav_files(directory):
@@ -36,7 +36,7 @@ def categorize_wav_files(directory):
 
 # 示例用法
 if __name__ == "__main__":
-    input_directory = "/home/zhiyu/speech_data/LungSongs/Audio Files"
+    input_directory = "~/speech_data/LungSongs/Audio Files"
     list1, list2 = categorize_wav_files(input_directory)
 
     all_list = list()

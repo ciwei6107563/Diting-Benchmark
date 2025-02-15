@@ -41,7 +41,7 @@ legal_terms = {
 
 out_json_path = ""
 all_list = list()
-file_dir = "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge"
+file_dir = "~/speech_data/speech_wav/ASR_knowledge"
 build_base = "build_law"
 os.makedirs(file_dir, exist_ok=True)
 

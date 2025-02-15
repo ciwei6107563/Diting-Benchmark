@@ -1,716 +1,614 @@
 [
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Intentional_Homicide/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6545\u610f\u6740\u4eba\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u6545\u610f\u6740\u4eba\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Intentional_Homicide/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Negligent_Homicide/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8fc7\u5931\u6740\u4eba\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u8fc7\u5931\u6740\u4eba\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Negligent_Homicide/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Robbery/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u62a2\u52ab\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u62a2\u52ab\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Robbery/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Fraud/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8bc8\u9a97\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u8bc8\u9a97\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Fraud/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Infringement_of_Intellectual_Property/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4fb5\u72af\u77e5\u8bc6\u4ea7\u6743\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u4fb5\u72af\u77e5\u8bc6\u4ea7\u6743\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Infringement_of_Intellectual_Property/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Abuse_of_Power/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6ee5\u7528\u804c\u6743\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u6ee5\u7528\u804c\u6743\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Abuse_of_Power/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Bribery/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u53d7\u8d3f\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u53d7\u8d3f\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Bribery/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Abandonment/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u9057\u5f03\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u9057\u5f03\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Abandonment/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Detention/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u62d8\u7981\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u975e\u6cd5\u62d8\u7981\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Detention/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Embezzlement/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u804c\u52a1\u4fb5\u5360\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u804c\u52a1\u4fb5\u5360\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Embezzlement/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Perjury/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4f2a\u8bc1\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u4f2a\u8bc1\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Perjury/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Obstruction_of_Justice/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u59a8\u5bb3\u516c\u52a1\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u59a8\u5bb3\u516c\u52a1\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Obstruction_of_Justice/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Misappropriation_of_Public_Funds/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u632a\u7528\u516c\u6b3e\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u632a\u7528\u516c\u6b3e\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Misappropriation_of_Public_Funds/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Contract_Fraud/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u5408\u540c\u8bc8\u9a97\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u5408\u540c\u8bc8\u9a97\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Contract_Fraud/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Business_Operations/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u7ecf\u8425\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u975e\u6cd5\u7ecf\u8425\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Business_Operations/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Smuggling/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8d70\u79c1\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u8d70\u79c1\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Smuggling/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Manufacture_or_Sale_of_Dangerous_Substances/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u5236\u9020\u3001\u4e70\u5356\u3001\u8fd0\u8f93\u3001\u50a8\u5b58\u5371\u9669\u7269\u8d28\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u975e\u6cd5\u5236\u9020\u3001\u4e70\u5356\u3001\u8fd0\u8f93\u3001\u50a8\u5b58\u5371\u9669\u7269\u8d28\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Manufacture_or_Sale_of_Dangerous_Substances/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Money_Laundering/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6d17\u94b1\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u6d17\u94b1\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Money_Laundering/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Escape/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8131\u9003\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u8131\u9003\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Escape/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Credit_Card_Fraud/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u59a8\u5bb3\u4fe1\u7528\u5361\u7ba1\u7406\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u59a8\u5bb3\u4fe1\u7528\u5361\u7ba1\u7406\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Credit_Card_Fraud/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Entry_into_Dwelling/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u79c1\u81ea\u4fb5\u5165\u4f4f\u5b85\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u79c1\u81ea\u4fb5\u5165\u4f4f\u5b85\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Entry_into_Dwelling/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Intentional_Assault/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6545\u610f\u4f24\u5bb3\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u6545\u610f\u4f24\u5bb3\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Intentional_Assault/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Collection_of_Personal_Information/1.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u83b7\u53d6\u516c\u6c11\u4fe1\u606f\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u975e\u6cd5\u83b7\u53d6\u516c\u6c11\u4fe1\u606f\u7f6a\u7684\u65e2\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Collection_of_Personal_Information/1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Intentional_Homicide/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6545\u610f\u6740\u4eba\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u6545\u610f\u6740\u4eba\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Intentional_Homicide/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Negligent_Homicide/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8fc7\u5931\u6740\u4eba\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u8fc7\u5931\u6740\u4eba\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Negligent_Homicide/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Robbery/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u62a2\u52ab\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u62a2\u52ab\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Robbery/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Extortion/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6572\u8bc8\u52d2\u7d22\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u6572\u8bc8\u52d2\u7d22\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Extortion/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Fraud/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8bc8\u9a97\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u8bc8\u9a97\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Fraud/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Infringement_of_Intellectual_Property/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4fb5\u72af\u77e5\u8bc6\u4ea7\u6743\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u4fb5\u72af\u77e5\u8bc6\u4ea7\u6743\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Infringement_of_Intellectual_Property/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Bribery/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u53d7\u8d3f\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u53d7\u8d3f\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Bribery/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Abandonment/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u9057\u5f03\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u9057\u5f03\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Abandonment/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Detention/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u62d8\u7981\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u975e\u6cd5\u62d8\u7981\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Detention/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Embezzlement/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u804c\u52a1\u4fb5\u5360\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u804c\u52a1\u4fb5\u5360\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Embezzlement/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Perjury/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4f2a\u8bc1\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u4f2a\u8bc1\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Perjury/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Obstruction_of_Justice/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u59a8\u5bb3\u516c\u52a1\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u59a8\u5bb3\u516c\u52a1\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Obstruction_of_Justice/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Misappropriation_of_Public_Funds/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u632a\u7528\u516c\u6b3e\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u632a\u7528\u516c\u6b3e\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Misappropriation_of_Public_Funds/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Contract_Fraud/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u5408\u540c\u8bc8\u9a97\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u5408\u540c\u8bc8\u9a97\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Contract_Fraud/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Tax_Evasion/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u865a\u5f00\u589e\u503c\u7a0e\u53d1\u7968\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u865a\u5f00\u589e\u503c\u7a0e\u53d1\u7968\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Tax_Evasion/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Business_Operations/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u7ecf\u8425\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u975e\u6cd5\u7ecf\u8425\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Business_Operations/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Smuggling/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8d70\u79c1\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u8d70\u79c1\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Smuggling/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Manufacture_or_Sale_of_Dangerous_Substances/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u5236\u9020\u3001\u4e70\u5356\u3001\u8fd0\u8f93\u3001\u50a8\u5b58\u5371\u9669\u7269\u8d28\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u975e\u6cd5\u5236\u9020\u3001\u4e70\u5356\u3001\u8fd0\u8f93\u3001\u50a8\u5b58\u5371\u9669\u7269\u8d28\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Manufacture_or_Sale_of_Dangerous_Substances/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Money_Laundering/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6d17\u94b1\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u6d17\u94b1\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Money_Laundering/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Escape/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8131\u9003\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u8131\u9003\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Escape/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Credit_Card_Fraud/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u59a8\u5bb3\u4fe1\u7528\u5361\u7ba1\u7406\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u59a8\u5bb3\u4fe1\u7528\u5361\u7ba1\u7406\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Credit_Card_Fraud/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Copyright_Infringement/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4fb5\u72af\u8457\u4f5c\u6743\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u4fb5\u72af\u8457\u4f5c\u6743\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Copyright_Infringement/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Entry_into_Dwelling/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u79c1\u81ea\u4fb5\u5165\u4f4f\u5b85\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u79c1\u81ea\u4fb5\u5165\u4f4f\u5b85\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Entry_into_Dwelling/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Intentional_Assault/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6545\u610f\u4f24\u5bb3\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u6545\u610f\u4f24\u5bb3\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Intentional_Assault/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Prostitution_Offenses/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u7ec4\u7ec7\u3001\u5f3a\u8feb\u3001\u8bf1\u5bfc\u3001\u5bb9\u7559\u3001\u5f15\u8bf1\u5356\u6deb\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u7ec4\u7ec7\u3001\u5f3a\u8feb\u3001\u8bf1\u5bfc\u3001\u5bb9\u7559\u3001\u5f15\u8bf1\u5356\u6deb\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Prostitution_Offenses/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Collection_of_Personal_Information/2.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u83b7\u53d6\u516c\u6c11\u4fe1\u606f\u7f6a\u7684\u672a\u9042",
-    "discript": "\u4ed6\u6784\u6210\u4e86\u975e\u6cd5\u83b7\u53d6\u516c\u6c11\u4fe1\u606f\u7f6a\u7684\u672a\u9042\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Collection_of_Personal_Information/2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Intentional_Homicide/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6545\u610f\u6740\u4eba\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u6545\u610f\u6740\u4eba\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Intentional_Homicide/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Negligent_Homicide/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8fc7\u5931\u6740\u4eba\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u8fc7\u5931\u6740\u4eba\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Negligent_Homicide/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Robbery/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u62a2\u52ab\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u62a2\u52ab\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Robbery/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Extortion/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6572\u8bc8\u52d2\u7d22\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u6572\u8bc8\u52d2\u7d22\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Extortion/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Fraud/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8bc8\u9a97\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u8bc8\u9a97\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Fraud/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Infringement_of_Intellectual_Property/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4fb5\u72af\u77e5\u8bc6\u4ea7\u6743\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u4fb5\u72af\u77e5\u8bc6\u4ea7\u6743\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Infringement_of_Intellectual_Property/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Abuse_of_Power/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6ee5\u7528\u804c\u6743\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u6ee5\u7528\u804c\u6743\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Abuse_of_Power/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Bribery/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u53d7\u8d3f\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u53d7\u8d3f\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Bribery/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Abandonment/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u9057\u5f03\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u9057\u5f03\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Abandonment/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Detention/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u62d8\u7981\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u975e\u6cd5\u62d8\u7981\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Detention/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Embezzlement/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u804c\u52a1\u4fb5\u5360\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u804c\u52a1\u4fb5\u5360\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Embezzlement/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Perjury/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4f2a\u8bc1\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u4f2a\u8bc1\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Perjury/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Obstruction_of_Justice/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u59a8\u5bb3\u516c\u52a1\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u59a8\u5bb3\u516c\u52a1\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Obstruction_of_Justice/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Misappropriation_of_Public_Funds/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u632a\u7528\u516c\u6b3e\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u632a\u7528\u516c\u6b3e\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Misappropriation_of_Public_Funds/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Contract_Fraud/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u5408\u540c\u8bc8\u9a97\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u5408\u540c\u8bc8\u9a97\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Contract_Fraud/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Tax_Evasion/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u865a\u5f00\u589e\u503c\u7a0e\u53d1\u7968\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u865a\u5f00\u589e\u503c\u7a0e\u53d1\u7968\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Tax_Evasion/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Business_Operations/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u7ecf\u8425\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u975e\u6cd5\u7ecf\u8425\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Business_Operations/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Smuggling/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8d70\u79c1\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u8d70\u79c1\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Smuggling/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Manufacture_or_Sale_of_Dangerous_Substances/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u5236\u9020\u3001\u4e70\u5356\u3001\u8fd0\u8f93\u3001\u50a8\u5b58\u5371\u9669\u7269\u8d28\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u975e\u6cd5\u5236\u9020\u3001\u4e70\u5356\u3001\u8fd0\u8f93\u3001\u50a8\u5b58\u5371\u9669\u7269\u8d28\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Manufacture_or_Sale_of_Dangerous_Substances/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Money_Laundering/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6d17\u94b1\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u6d17\u94b1\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Money_Laundering/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Escape/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8131\u9003\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u8131\u9003\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Escape/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Credit_Card_Fraud/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u59a8\u5bb3\u4fe1\u7528\u5361\u7ba1\u7406\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u59a8\u5bb3\u4fe1\u7528\u5361\u7ba1\u7406\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Credit_Card_Fraud/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Copyright_Infringement/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4fb5\u72af\u8457\u4f5c\u6743\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u4fb5\u72af\u8457\u4f5c\u6743\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Copyright_Infringement/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Entry_into_Dwelling/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u79c1\u81ea\u4fb5\u5165\u4f4f\u5b85\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u79c1\u81ea\u4fb5\u5165\u4f4f\u5b85\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Entry_into_Dwelling/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Intentional_Assault/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6545\u610f\u4f24\u5bb3\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u6545\u610f\u4f24\u5bb3\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Intentional_Assault/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Prostitution_Offenses/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u7ec4\u7ec7\u3001\u5f3a\u8feb\u3001\u8bf1\u5bfc\u3001\u5bb9\u7559\u3001\u5f15\u8bf1\u5356\u6deb\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u7ec4\u7ec7\u3001\u5f3a\u8feb\u3001\u8bf1\u5bfc\u3001\u5bb9\u7559\u3001\u5f15\u8bf1\u5356\u6deb\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Prostitution_Offenses/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Collection_of_Personal_Information/3.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u83b7\u53d6\u516c\u6c11\u4fe1\u606f\u7f6a\u7684\u65e2\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u975e\u6cd5\u83b7\u53d6\u516c\u6c11\u4fe1\u606f\u7f6a\u7684\u65e2\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Collection_of_Personal_Information/3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Intentional_Homicide/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6545\u610f\u6740\u4eba\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u6545\u610f\u6740\u4eba\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Intentional_Homicide/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Negligent_Homicide/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8fc7\u5931\u6740\u4eba\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u8fc7\u5931\u6740\u4eba\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Negligent_Homicide/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Robbery/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u62a2\u52ab\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u62a2\u52ab\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Robbery/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Extortion/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6572\u8bc8\u52d2\u7d22\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u6572\u8bc8\u52d2\u7d22\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Extortion/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Fraud/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8bc8\u9a97\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u8bc8\u9a97\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Fraud/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Infringement_of_Intellectual_Property/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4fb5\u72af\u77e5\u8bc6\u4ea7\u6743\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u4fb5\u72af\u77e5\u8bc6\u4ea7\u6743\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Infringement_of_Intellectual_Property/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Abuse_of_Power/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6ee5\u7528\u804c\u6743\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u6ee5\u7528\u804c\u6743\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Abuse_of_Power/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Bribery/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u53d7\u8d3f\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u53d7\u8d3f\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Bribery/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Abandonment/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u9057\u5f03\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u9057\u5f03\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Abandonment/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Detention/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u62d8\u7981\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u975e\u6cd5\u62d8\u7981\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Detention/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Embezzlement/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u804c\u52a1\u4fb5\u5360\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u804c\u52a1\u4fb5\u5360\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Embezzlement/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Perjury/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4f2a\u8bc1\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u4f2a\u8bc1\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Perjury/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Misappropriation_of_Public_Funds/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u632a\u7528\u516c\u6b3e\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u632a\u7528\u516c\u6b3e\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Misappropriation_of_Public_Funds/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Contract_Fraud/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u5408\u540c\u8bc8\u9a97\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u5408\u540c\u8bc8\u9a97\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Contract_Fraud/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Tax_Evasion/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u865a\u5f00\u589e\u503c\u7a0e\u53d1\u7968\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u865a\u5f00\u589e\u503c\u7a0e\u53d1\u7968\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Tax_Evasion/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Business_Operations/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u7ecf\u8425\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u975e\u6cd5\u7ecf\u8425\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Business_Operations/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Smuggling/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8d70\u79c1\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u8d70\u79c1\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Smuggling/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Manufacture_or_Sale_of_Dangerous_Substances/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u5236\u9020\u3001\u4e70\u5356\u3001\u8fd0\u8f93\u3001\u50a8\u5b58\u5371\u9669\u7269\u8d28\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u975e\u6cd5\u5236\u9020\u3001\u4e70\u5356\u3001\u8fd0\u8f93\u3001\u50a8\u5b58\u5371\u9669\u7269\u8d28\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Manufacture_or_Sale_of_Dangerous_Substances/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Money_Laundering/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6d17\u94b1\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u6d17\u94b1\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Money_Laundering/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Escape/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u8131\u9003\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u8131\u9003\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Escape/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Credit_Card_Fraud/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u59a8\u5bb3\u4fe1\u7528\u5361\u7ba1\u7406\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u59a8\u5bb3\u4fe1\u7528\u5361\u7ba1\u7406\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Credit_Card_Fraud/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Copyright_Infringement/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u4fb5\u72af\u8457\u4f5c\u6743\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u4fb5\u72af\u8457\u4f5c\u6743\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Copyright_Infringement/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Entry_into_Dwelling/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u79c1\u81ea\u4fb5\u5165\u4f4f\u5b85\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u79c1\u81ea\u4fb5\u5165\u4f4f\u5b85\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Entry_into_Dwelling/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Intentional_Assault/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u6545\u610f\u4f24\u5bb3\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u6545\u610f\u4f24\u5bb3\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Intentional_Assault/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Prostitution_Offenses/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u7ec4\u7ec7\u3001\u5f3a\u8feb\u3001\u8bf1\u5bfc\u3001\u5bb9\u7559\u3001\u5f15\u8bf1\u5356\u6deb\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u7ec4\u7ec7\u3001\u5f3a\u8feb\u3001\u8bf1\u5bfc\u3001\u5bb9\u7559\u3001\u5f15\u8bf1\u5356\u6deb\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Prostitution_Offenses/4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_law/Illegal_Collection_of_Personal_Information/4.wav",
-    "question": "What does the person say?please answer with \" The person says: xxxx\".",
-    "answer": "\u975e\u6cd5\u83b7\u53d6\u516c\u6c11\u4fe1\u606f\u7f6a\u7684\u672a\u9042",
-    "discript": "\u5f20\u4e09\u56e0\u975e\u6cd5\u83b7\u53d6\u516c\u6c11\u4fe1\u606f\u7f6a\u7684\u672a\u9042\u88ab\u5224\u5904\u5211\u7f5a\uff0c\u6cd5\u5b98\u5f53\u5ead\u5ba3\u5224\u3002",
-    "voice_relative_path": "./build_law/Illegal_Collection_of_Personal_Information/4.wav"
-  }
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "故意杀人罪的既遂",
+        "discript": "他构成了故意杀人罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Intentional_Homicide/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "过失杀人罪的既遂",
+        "discript": "他构成了过失杀人罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Negligent_Homicide/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "抢劫罪的既遂",
+        "discript": "他构成了抢劫罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Robbery/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "诈骗罪的既遂",
+        "discript": "他构成了诈骗罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Fraud/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "侵犯知识产权罪的既遂",
+        "discript": "他构成了侵犯知识产权罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Infringement_of_Intellectual_Property/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "滥用职权罪的既遂",
+        "discript": "他构成了滥用职权罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Abuse_of_Power/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "受贿罪的既遂",
+        "discript": "他构成了受贿罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Bribery/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "遗弃罪的既遂",
+        "discript": "他构成了遗弃罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Abandonment/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法拘禁罪的既遂",
+        "discript": "他构成了非法拘禁罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Detention/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "职务侵占罪的既遂",
+        "discript": "他构成了职务侵占罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Embezzlement/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "伪证罪的既遂",
+        "discript": "他构成了伪证罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Perjury/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "妨害公务罪的既遂",
+        "discript": "他构成了妨害公务罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Obstruction_of_Justice/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "挪用公款罪的既遂",
+        "discript": "他构成了挪用公款罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Misappropriation_of_Public_Funds/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "合同诈骗罪的既遂",
+        "discript": "他构成了合同诈骗罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Contract_Fraud/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法经营罪的既遂",
+        "discript": "他构成了非法经营罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Business_Operations/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "走私罪的既遂",
+        "discript": "他构成了走私罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Smuggling/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法制造、买卖、运输、储存危险物质罪的既遂",
+        "discript": "他构成了非法制造、买卖、运输、储存危险物质罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Manufacture_or_Sale_of_Dangerous_Substances/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "洗钱罪的既遂",
+        "discript": "他构成了洗钱罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Money_Laundering/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脱逃罪的既遂",
+        "discript": "他构成了脱逃罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Escape/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "妨害信用卡管理罪的既遂",
+        "discript": "他构成了妨害信用卡管理罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Credit_Card_Fraud/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "私自侵入住宅罪的既遂",
+        "discript": "他构成了私自侵入住宅罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Entry_into_Dwelling/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "故意伤害罪的既遂",
+        "discript": "他构成了故意伤害罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Intentional_Assault/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法获取公民信息罪的既遂",
+        "discript": "他构成了非法获取公民信息罪的既遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Collection_of_Personal_Information/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "故意杀人罪的未遂",
+        "discript": "他构成了故意杀人罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Intentional_Homicide/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "过失杀人罪的未遂",
+        "discript": "他构成了过失杀人罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Negligent_Homicide/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "抢劫罪的未遂",
+        "discript": "他构成了抢劫罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Robbery/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "敲诈勒索罪的未遂",
+        "discript": "他构成了敲诈勒索罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Extortion/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "诈骗罪的未遂",
+        "discript": "他构成了诈骗罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Fraud/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "侵犯知识产权罪的未遂",
+        "discript": "他构成了侵犯知识产权罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Infringement_of_Intellectual_Property/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "受贿罪的未遂",
+        "discript": "他构成了受贿罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Bribery/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "遗弃罪的未遂",
+        "discript": "他构成了遗弃罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Abandonment/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法拘禁罪的未遂",
+        "discript": "他构成了非法拘禁罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Detention/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "职务侵占罪的未遂",
+        "discript": "他构成了职务侵占罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Embezzlement/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "伪证罪的未遂",
+        "discript": "他构成了伪证罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Perjury/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "妨害公务罪的未遂",
+        "discript": "他构成了妨害公务罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Obstruction_of_Justice/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "挪用公款罪的未遂",
+        "discript": "他构成了挪用公款罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Misappropriation_of_Public_Funds/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "合同诈骗罪的未遂",
+        "discript": "他构成了合同诈骗罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Contract_Fraud/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "虚开增值税发票罪的未遂",
+        "discript": "他构成了虚开增值税发票罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Tax_Evasion/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法经营罪的未遂",
+        "discript": "他构成了非法经营罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Business_Operations/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "走私罪的未遂",
+        "discript": "他构成了走私罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Smuggling/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法制造、买卖、运输、储存危险物质罪的未遂",
+        "discript": "他构成了非法制造、买卖、运输、储存危险物质罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Manufacture_or_Sale_of_Dangerous_Substances/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "洗钱罪的未遂",
+        "discript": "他构成了洗钱罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Money_Laundering/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脱逃罪的未遂",
+        "discript": "他构成了脱逃罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Escape/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "妨害信用卡管理罪的未遂",
+        "discript": "他构成了妨害信用卡管理罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Credit_Card_Fraud/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "侵犯著作权罪的未遂",
+        "discript": "他构成了侵犯著作权罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Copyright_Infringement/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "私自侵入住宅罪的未遂",
+        "discript": "他构成了私自侵入住宅罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Entry_into_Dwelling/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "故意伤害罪的未遂",
+        "discript": "他构成了故意伤害罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Intentional_Assault/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "组织、强迫、诱导、容留、引诱卖淫罪的未遂",
+        "discript": "他构成了组织、强迫、诱导、容留、引诱卖淫罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Prostitution_Offenses/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法获取公民信息罪的未遂",
+        "discript": "他构成了非法获取公民信息罪的未遂，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Collection_of_Personal_Information/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "故意杀人罪的既遂",
+        "discript": "张三因故意杀人罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Intentional_Homicide/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "过失杀人罪的既遂",
+        "discript": "张三因过失杀人罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Negligent_Homicide/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "抢劫罪的既遂",
+        "discript": "张三因抢劫罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Robbery/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "敲诈勒索罪的既遂",
+        "discript": "张三因敲诈勒索罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Extortion/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "诈骗罪的既遂",
+        "discript": "张三因诈骗罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Fraud/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "侵犯知识产权罪的既遂",
+        "discript": "张三因侵犯知识产权罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Infringement_of_Intellectual_Property/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "滥用职权罪的既遂",
+        "discript": "张三因滥用职权罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Abuse_of_Power/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "受贿罪的既遂",
+        "discript": "张三因受贿罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Bribery/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "遗弃罪的既遂",
+        "discript": "张三因遗弃罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Abandonment/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法拘禁罪的既遂",
+        "discript": "张三因非法拘禁罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Detention/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "职务侵占罪的既遂",
+        "discript": "张三因职务侵占罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Embezzlement/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "伪证罪的既遂",
+        "discript": "张三因伪证罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Perjury/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "妨害公务罪的既遂",
+        "discript": "张三因妨害公务罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Obstruction_of_Justice/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "挪用公款罪的既遂",
+        "discript": "张三因挪用公款罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Misappropriation_of_Public_Funds/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "合同诈骗罪的既遂",
+        "discript": "张三因合同诈骗罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Contract_Fraud/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "虚开增值税发票罪的既遂",
+        "discript": "张三因虚开增值税发票罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Tax_Evasion/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法经营罪的既遂",
+        "discript": "张三因非法经营罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Business_Operations/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "走私罪的既遂",
+        "discript": "张三因走私罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Smuggling/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法制造、买卖、运输、储存危险物质罪的既遂",
+        "discript": "张三因非法制造、买卖、运输、储存危险物质罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Manufacture_or_Sale_of_Dangerous_Substances/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "洗钱罪的既遂",
+        "discript": "张三因洗钱罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Money_Laundering/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脱逃罪的既遂",
+        "discript": "张三因脱逃罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Escape/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "妨害信用卡管理罪的既遂",
+        "discript": "张三因妨害信用卡管理罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Credit_Card_Fraud/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "侵犯著作权罪的既遂",
+        "discript": "张三因侵犯著作权罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Copyright_Infringement/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "私自侵入住宅罪的既遂",
+        "discript": "张三因私自侵入住宅罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Entry_into_Dwelling/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "故意伤害罪的既遂",
+        "discript": "张三因故意伤害罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Intentional_Assault/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "组织、强迫、诱导、容留、引诱卖淫罪的既遂",
+        "discript": "张三因组织、强迫、诱导、容留、引诱卖淫罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Prostitution_Offenses/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法获取公民信息罪的既遂",
+        "discript": "张三因非法获取公民信息罪的既遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Collection_of_Personal_Information/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "故意杀人罪的未遂",
+        "discript": "张三因故意杀人罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Intentional_Homicide/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "过失杀人罪的未遂",
+        "discript": "张三因过失杀人罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Negligent_Homicide/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "抢劫罪的未遂",
+        "discript": "张三因抢劫罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Robbery/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "敲诈勒索罪的未遂",
+        "discript": "张三因敲诈勒索罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Extortion/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "诈骗罪的未遂",
+        "discript": "张三因诈骗罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Fraud/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "侵犯知识产权罪的未遂",
+        "discript": "张三因侵犯知识产权罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Infringement_of_Intellectual_Property/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "滥用职权罪的未遂",
+        "discript": "张三因滥用职权罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Abuse_of_Power/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "受贿罪的未遂",
+        "discript": "张三因受贿罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Bribery/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "遗弃罪的未遂",
+        "discript": "张三因遗弃罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Abandonment/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法拘禁罪的未遂",
+        "discript": "张三因非法拘禁罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Detention/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "职务侵占罪的未遂",
+        "discript": "张三因职务侵占罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Embezzlement/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "伪证罪的未遂",
+        "discript": "张三因伪证罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Perjury/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "挪用公款罪的未遂",
+        "discript": "张三因挪用公款罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Misappropriation_of_Public_Funds/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "合同诈骗罪的未遂",
+        "discript": "张三因合同诈骗罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Contract_Fraud/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "虚开增值税发票罪的未遂",
+        "discript": "张三因虚开增值税发票罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Tax_Evasion/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法经营罪的未遂",
+        "discript": "张三因非法经营罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Business_Operations/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "走私罪的未遂",
+        "discript": "张三因走私罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Smuggling/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法制造、买卖、运输、储存危险物质罪的未遂",
+        "discript": "张三因非法制造、买卖、运输、储存危险物质罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Manufacture_or_Sale_of_Dangerous_Substances/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "洗钱罪的未遂",
+        "discript": "张三因洗钱罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Money_Laundering/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脱逃罪的未遂",
+        "discript": "张三因脱逃罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Escape/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "妨害信用卡管理罪的未遂",
+        "discript": "张三因妨害信用卡管理罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Credit_Card_Fraud/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "侵犯著作权罪的未遂",
+        "discript": "张三因侵犯著作权罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Copyright_Infringement/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "私自侵入住宅罪的未遂",
+        "discript": "张三因私自侵入住宅罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Entry_into_Dwelling/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "故意伤害罪的未遂",
+        "discript": "张三因故意伤害罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Intentional_Assault/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "组织、强迫、诱导、容留、引诱卖淫罪的未遂",
+        "discript": "张三因组织、强迫、诱导、容留、引诱卖淫罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Prostitution_Offenses/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "非法获取公民信息罪的未遂",
+        "discript": "张三因非法获取公民信息罪的未遂被判处刑罚，法官当庭宣判。",
+        "voice_relative_path": "./build_law/Illegal_Collection_of_Personal_Information/4.wav"
+    }
 ]

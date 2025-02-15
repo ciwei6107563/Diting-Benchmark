@@ -1,1 +1,1220 @@
-[{"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Left_Ventricle/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5de6\u5fc3\u5ba4", "discript": "\u6b64\u5904\u4e3a\u5de6\u5fc3\u5ba4\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Left_Ventricle/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Biceps_Brachii/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80b1\u4e8c\u5934\u808c", "discript": "\u6b64\u5904\u4e3a\u80b1\u4e8c\u5934\u808c\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Biceps_Brachii/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Hip_Joint/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9acb\u5173\u8282", "discript": "\u6b64\u5904\u4e3a\u9acb\u5173\u8282\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Hip_Joint/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Gland/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a", "discript": "\u6b64\u5904\u4e3a\u7532\u72b6\u817a\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Gland/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Retina/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89c6\u7f51\u819c", "discript": "\u6b64\u5904\u4e3a\u89c6\u7f51\u819c\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Retina/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Spleen/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u813e\u810f", "discript": "\u6b64\u5904\u4e3a\u813e\u810f\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Spleen/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Adrenal_Gland/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80be\u4e0a\u817a", "discript": "\u6b64\u5904\u4e3a\u80be\u4e0a\u817a\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Adrenal_Gland/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cerebellum/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5c0f\u8111", "discript": "\u6b64\u5904\u4e3a\u5c0f\u8111\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Cerebellum/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pons/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8111\u6865", "discript": "\u6b64\u5904\u4e3a\u8111\u6865\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Pons/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Fibula/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8153\u9aa8", "discript": "\u6b64\u5904\u4e3a\u8153\u9aa8\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Fibula/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pancreas/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f0\u817a", "discript": "\u6b64\u5904\u4e3a\u80f0\u817a\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Pancreas/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Atrium/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5fc3\u623f", "discript": "\u6b64\u5904\u4e3a\u5fc3\u623f\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Atrium/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Intestinal_Mucosa/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80a0\u9ecf\u819c", "discript": "\u6b64\u5904\u4e3a\u80a0\u9ecf\u819c\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Intestinal_Mucosa/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Adrenal_Cortex/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80be\u4e0a\u817a\u76ae\u8d28", "discript": "\u6b64\u5904\u4e3a\u80be\u4e0a\u817a\u76ae\u8d28\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Adrenal_Cortex/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Prostate_Gland/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u524d\u5217\u817a", "discript": "\u6b64\u5904\u4e3a\u524d\u5217\u817a\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Prostate_Gland/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Abdominal_Aorta/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8179\u4e3b\u52a8\u8109", "discript": "\u6b64\u5904\u4e3a\u8179\u4e3b\u52a8\u8109\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Abdominal_Aorta/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Talus/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8ddd\u9aa8", "discript": "\u6b64\u5904\u4e3a\u8ddd\u9aa8\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Talus/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Deltoid_Muscle/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u4e09\u89d2\u808c", "discript": "\u6b64\u5904\u4e3a\u4e09\u89d2\u808c\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Deltoid_Muscle/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Dura_Mater/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u786c\u8111\u819c", "discript": "\u6b64\u5904\u4e3a\u786c\u8111\u819c\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Dura_Mater/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cochlea/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8033\u8717", "discript": "\u6b64\u5904\u4e3a\u8033\u8717\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Cochlea/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Cartilage/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a\u8f6f\u9aa8", "discript": "\u6b64\u5904\u4e3a\u7532\u72b6\u817a\u8f6f\u9aa8\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Cartilage/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Tibia/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80eb\u9aa8", "discript": "\u6b64\u5904\u4e3a\u80eb\u9aa8\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Tibia/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Hyoid_Bone/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u820c\u9aa8", "discript": "\u6b64\u5904\u4e3a\u820c\u9aa8\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Hyoid_Bone/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Islets_of_Langerhans/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f0\u5c9b", "discript": "\u6b64\u5904\u4e3a\u80f0\u5c9b\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Islets_of_Langerhans/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Heart_Valves/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5fc3\u810f\u74e3\u819c", "discript": "\u6b64\u5904\u4e3a\u5fc3\u810f\u74e3\u819c\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Heart_Valves/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Lumbar_Spine/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8170\u690e", "discript": "\u6b64\u5904\u4e3a\u8170\u690e\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Lumbar_Spine/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Carpal_Bones/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8155\u9aa8", "discript": "\u6b64\u5904\u4e3a\u8155\u9aa8\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Carpal_Bones/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thymus_Gland/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f8\u817a", "discript": "\u6b64\u5904\u4e3a\u80f8\u817a\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Thymus_Gland/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Vocal_Cords/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u58f0\u5e26", "discript": "\u6b64\u5904\u4e3a\u58f0\u5e26\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Vocal_Cords/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cerebral_Cortex/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5927\u8111\u76ae\u5c42", "discript": "\u6b64\u5904\u4e3a\u5927\u8111\u76ae\u5c42\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Cerebral_Cortex/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Gastric_Mucosa/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80c3\u9ecf\u819c", "discript": "\u6b64\u5904\u4e3a\u80c3\u9ecf\u819c\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Gastric_Mucosa/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Optic_Nerve/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89c6\u795e\u7ecf", "discript": "\u6b64\u5904\u4e3a\u89c6\u795e\u7ecf\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Optic_Nerve/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Liver_Lobes/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u809d\u53f6", "discript": "\u6b64\u5904\u4e3a\u809d\u53f6\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Liver_Lobes/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Bronchial_Tubes/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u652f\u6c14\u7ba1", "discript": "\u6b64\u5904\u4e3a\u652f\u6c14\u7ba1\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Bronchial_Tubes/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Achilles_Tendon/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8ddf\u8171", "discript": "\u6b64\u5904\u4e3a\u8ddf\u8171\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Achilles_Tendon/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cornea/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89d2\u819c", "discript": "\u6b64\u5904\u4e3a\u89d2\u819c\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Cornea/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Lobes/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a\u53f6", "discript": "\u6b64\u5904\u4e3a\u7532\u72b6\u817a\u53f6\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Lobes/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Mandible/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u4e0b\u988c\u9aa8", "discript": "\u6b64\u5904\u4e3a\u4e0b\u988c\u9aa8\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Mandible/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Scapula/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80a9\u80db\u9aa8", "discript": "\u6b64\u5904\u4e3a\u80a9\u80db\u9aa8\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Scapula/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pituitary_Gland/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5782\u4f53", "discript": "\u6b64\u5904\u4e3a\u5782\u4f53\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Pituitary_Gland/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Ventricles_of_the_Brain/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8111\u5ba4", "discript": "\u6b64\u5904\u4e3a\u8111\u5ba4\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Ventricles_of_the_Brain/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Frontal_Lobe/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u989d\u53f6", "discript": "\u6b64\u5904\u4e3a\u989d\u53f6\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Frontal_Lobe/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Parathyroid_Glands/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u65c1\u817a", "discript": "\u6b64\u5904\u4e3a\u7532\u72b6\u65c1\u817a\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Parathyroid_Glands/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cervical_Spine/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9888\u690e", "discript": "\u6b64\u5904\u4e3a\u9888\u690e\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Cervical_Spine/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cerebrospinal_Fluid/1.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8111\u810a\u6db2", "discript": "\u6b64\u5904\u4e3a\u8111\u810a\u6db2\uff0c\u5927\u5bb6\u4ed4\u7ec6\u770b\u3002", "voice_relative_path": "./build_medical_cos/Cerebrospinal_Fluid/1.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Left_Ventricle/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5de6\u5fc3\u5ba4", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u5de6\u5fc3\u5ba4\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Left_Ventricle/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Biceps_Brachii/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80b1\u4e8c\u5934\u808c", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80b1\u4e8c\u5934\u808c\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Biceps_Brachii/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Hip_Joint/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9acb\u5173\u8282", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u9acb\u5173\u8282\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Hip_Joint/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Gland/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u7532\u72b6\u817a\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Gland/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Retina/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89c6\u7f51\u819c", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u89c6\u7f51\u819c\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Retina/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Spleen/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u813e\u810f", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u813e\u810f\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Spleen/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Adrenal_Gland/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80be\u4e0a\u817a", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80be\u4e0a\u817a\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Adrenal_Gland/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cerebellum/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5c0f\u8111", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u5c0f\u8111\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Cerebellum/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pons/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8111\u6865", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u8111\u6865\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Pons/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pancreas/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f0\u817a", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80f0\u817a\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Pancreas/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Atrium/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5fc3\u623f", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u5fc3\u623f\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Atrium/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Ovaries/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5375\u5de2", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u5375\u5de2\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Ovaries/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Glomerulus/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80be\u5c0f\u7403", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80be\u5c0f\u7403\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Glomerulus/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Intestinal_Mucosa/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80a0\u9ecf\u819c", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80a0\u9ecf\u819c\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Intestinal_Mucosa/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Prostate_Gland/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u524d\u5217\u817a", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u524d\u5217\u817a\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Prostate_Gland/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Abdominal_Aorta/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8179\u4e3b\u52a8\u8109", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u8179\u4e3b\u52a8\u8109\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Abdominal_Aorta/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Deltoid_Muscle/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u4e09\u89d2\u808c", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u4e09\u89d2\u808c\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Deltoid_Muscle/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Oblique_Muscle/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u659c\u89d2\u808c", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u659c\u89d2\u808c\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Oblique_Muscle/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Dura_Mater/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u786c\u8111\u819c", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u786c\u8111\u819c\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Dura_Mater/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cochlea/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8033\u8717", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u8033\u8717\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Cochlea/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Ribs/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u808b\u9aa8", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u808b\u9aa8\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Ribs/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Capillary/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u6bdb\u7ec6\u8840\u7ba1", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u6bdb\u7ec6\u8840\u7ba1\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Capillary/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Cartilage/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a\u8f6f\u9aa8", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u7532\u72b6\u817a\u8f6f\u9aa8\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Cartilage/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Tibia/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80eb\u9aa8", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80eb\u9aa8\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Tibia/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Hyoid_Bone/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u820c\u9aa8", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u820c\u9aa8\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Hyoid_Bone/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Islets_of_Langerhans/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f0\u5c9b", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80f0\u5c9b\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Islets_of_Langerhans/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cranial_Nerves/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9885\u795e\u7ecf", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u9885\u795e\u7ecf\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Cranial_Nerves/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Heart_Valves/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5fc3\u810f\u74e3\u819c", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u5fc3\u810f\u74e3\u819c\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Heart_Valves/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Lumbar_Spine/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8170\u690e", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u8170\u690e\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Lumbar_Spine/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Carpal_Bones/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8155\u9aa8", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u8155\u9aa8\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Carpal_Bones/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thymus_Gland/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f8\u817a", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80f8\u817a\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Thymus_Gland/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Vocal_Cords/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u58f0\u5e26", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u58f0\u5e26\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Vocal_Cords/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cerebral_Cortex/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5927\u8111\u76ae\u5c42", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u5927\u8111\u76ae\u5c42\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Cerebral_Cortex/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Gastric_Mucosa/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80c3\u9ecf\u819c", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80c3\u9ecf\u819c\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Gastric_Mucosa/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Optic_Nerve/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89c6\u795e\u7ecf", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u89c6\u795e\u7ecf\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Optic_Nerve/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Liver_Lobes/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u809d\u53f6", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u809d\u53f6\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Liver_Lobes/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Bronchial_Tubes/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u652f\u6c14\u7ba1", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u652f\u6c14\u7ba1\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Bronchial_Tubes/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Achilles_Tendon/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8ddf\u8171", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u8ddf\u8171\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Achilles_Tendon/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cornea/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89d2\u819c", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u89d2\u819c\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Cornea/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Lobes/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a\u53f6", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u7532\u72b6\u817a\u53f6\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Lobes/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Mandible/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u4e0b\u988c\u9aa8", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u4e0b\u988c\u9aa8\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Mandible/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Scapula/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80a9\u80db\u9aa8", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80a9\u80db\u9aa8\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Scapula/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pituitary_Gland/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5782\u4f53", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u5782\u4f53\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Pituitary_Gland/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Ventricles_of_the_Brain/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8111\u5ba4", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u8111\u5ba4\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Ventricles_of_the_Brain/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Frontal_Lobe/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u989d\u53f6", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u989d\u53f6\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Frontal_Lobe/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Parathyroid_Glands/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u65c1\u817a", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u7532\u72b6\u65c1\u817a\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Parathyroid_Glands/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cervical_Spine/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9888\u690e", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u9888\u690e\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Cervical_Spine/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/White_Blood_Cells/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u767d\u7ec6\u80de", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u767d\u7ec6\u80de\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/White_Blood_Cells/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Sigmoid_Colon/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u4e59\u72b6\u7ed3\u80a0", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u4e59\u72b6\u7ed3\u80a0\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Sigmoid_Colon/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Appendix/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9611\u5c3e", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u9611\u5c3e\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Appendix/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Bile_Duct/2.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80c6\u7ba1", "discript": "\u5927\u5bb6\u8bf7\u770b\uff0c\u80c6\u7ba1\u5c31\u5728\u8fd9\u91cc\u3002", "voice_relative_path": "./build_medical_cos/Bile_Duct/2.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Left_Ventricle/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5de6\u5fc3\u5ba4", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u5de6\u5fc3\u5ba4\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Left_Ventricle/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Biceps_Brachii/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80b1\u4e8c\u5934\u808c", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80b1\u4e8c\u5934\u808c\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Biceps_Brachii/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Gland/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u7532\u72b6\u817a\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Gland/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Retina/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89c6\u7f51\u819c", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u89c6\u7f51\u819c\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Retina/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Red_Bone_Marrow/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7ea2\u9aa8\u9ad3", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u7ea2\u9aa8\u9ad3\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Red_Bone_Marrow/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Spleen/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u813e\u810f", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u813e\u810f\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Spleen/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Adrenal_Gland/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80be\u4e0a\u817a", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80be\u4e0a\u817a\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Adrenal_Gland/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cerebellum/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5c0f\u8111", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u5c0f\u8111\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Cerebellum/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pons/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8111\u6865", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u8111\u6865\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Pons/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Fibula/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8153\u9aa8", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u8153\u9aa8\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Fibula/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pancreas/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f0\u817a", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80f0\u817a\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Pancreas/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Atrium/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5fc3\u623f", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u5fc3\u623f\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Atrium/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Ovaries/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5375\u5de2", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u5375\u5de2\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Ovaries/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Glomerulus/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80be\u5c0f\u7403", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80be\u5c0f\u7403\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Glomerulus/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Intestinal_Mucosa/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80a0\u9ecf\u819c", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80a0\u9ecf\u819c\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Intestinal_Mucosa/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Adrenal_Cortex/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80be\u4e0a\u817a\u76ae\u8d28", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80be\u4e0a\u817a\u76ae\u8d28\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Adrenal_Cortex/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Prostate_Gland/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u524d\u5217\u817a", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u524d\u5217\u817a\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Prostate_Gland/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Abdominal_Aorta/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8179\u4e3b\u52a8\u8109", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u8179\u4e3b\u52a8\u8109\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Abdominal_Aorta/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Rectum/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u76f4\u80a0", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u76f4\u80a0\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Rectum/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Oblique_Muscle/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u659c\u89d2\u808c", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u659c\u89d2\u808c\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Oblique_Muscle/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Dura_Mater/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u786c\u8111\u819c", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u786c\u8111\u819c\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Dura_Mater/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cochlea/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8033\u8717", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u8033\u8717\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Cochlea/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Ribs/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u808b\u9aa8", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u808b\u9aa8\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Ribs/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Capillary/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u6bdb\u7ec6\u8840\u7ba1", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u6bdb\u7ec6\u8840\u7ba1\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Capillary/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Cartilage/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a\u8f6f\u9aa8", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u7532\u72b6\u817a\u8f6f\u9aa8\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Cartilage/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Tibia/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80eb\u9aa8", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80eb\u9aa8\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Tibia/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Hyoid_Bone/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u820c\u9aa8", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u820c\u9aa8\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Hyoid_Bone/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Islets_of_Langerhans/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f0\u5c9b", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80f0\u5c9b\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Islets_of_Langerhans/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cranial_Nerves/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9885\u795e\u7ecf", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u9885\u795e\u7ecf\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Cranial_Nerves/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Heart_Valves/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5fc3\u810f\u74e3\u819c", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u5fc3\u810f\u74e3\u819c\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Heart_Valves/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Lumbar_Spine/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8170\u690e", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u8170\u690e\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Lumbar_Spine/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Carpal_Bones/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8155\u9aa8", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u8155\u9aa8\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Carpal_Bones/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thymus_Gland/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f8\u817a", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80f8\u817a\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Thymus_Gland/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Vocal_Cords/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u58f0\u5e26", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u58f0\u5e26\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Vocal_Cords/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cerebral_Cortex/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5927\u8111\u76ae\u5c42", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u5927\u8111\u76ae\u5c42\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Cerebral_Cortex/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Gastric_Mucosa/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80c3\u9ecf\u819c", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80c3\u9ecf\u819c\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Gastric_Mucosa/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Optic_Nerve/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89c6\u795e\u7ecf", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u89c6\u795e\u7ecf\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Optic_Nerve/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Liver_Lobes/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u809d\u53f6", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u809d\u53f6\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Liver_Lobes/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Bronchial_Tubes/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u652f\u6c14\u7ba1", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u652f\u6c14\u7ba1\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Bronchial_Tubes/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Achilles_Tendon/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8ddf\u8171", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u8ddf\u8171\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Achilles_Tendon/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cornea/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89d2\u819c", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u89d2\u819c\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Cornea/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Lobes/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a\u53f6", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u7532\u72b6\u817a\u53f6\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Lobes/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Mandible/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u4e0b\u988c\u9aa8", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u4e0b\u988c\u9aa8\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Mandible/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Scapula/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80a9\u80db\u9aa8", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80a9\u80db\u9aa8\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Scapula/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pituitary_Gland/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5782\u4f53", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u5782\u4f53\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Pituitary_Gland/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Ventricles_of_the_Brain/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8111\u5ba4", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u8111\u5ba4\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Ventricles_of_the_Brain/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Frontal_Lobe/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u989d\u53f6", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u989d\u53f6\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Frontal_Lobe/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Parathyroid_Glands/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u65c1\u817a", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u7532\u72b6\u65c1\u817a\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Parathyroid_Glands/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cervical_Spine/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9888\u690e", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u9888\u690e\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Cervical_Spine/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/White_Blood_Cells/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u767d\u7ec6\u80de", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u767d\u7ec6\u80de\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/White_Blood_Cells/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Sigmoid_Colon/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u4e59\u72b6\u7ed3\u80a0", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u4e59\u72b6\u7ed3\u80a0\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Sigmoid_Colon/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Appendix/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9611\u5c3e", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u9611\u5c3e\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Appendix/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Bile_Duct/3.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80c6\u7ba1", "discript": "\u6211\u4eec\u73b0\u5728\u770b\u5230\u7684\u662f\u80c6\u7ba1\uff0c\u5b83\u5c31\u662f\u8fd9\u4e2a\u6837\u5b50\u7684\u3002", "voice_relative_path": "./build_medical_cos/Bile_Duct/3.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Left_Ventricle/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5de6\u5fc3\u5ba4", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u5de6\u5fc3\u5ba4\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Left_Ventricle/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Biceps_Brachii/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80b1\u4e8c\u5934\u808c", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80b1\u4e8c\u5934\u808c\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Biceps_Brachii/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Hip_Joint/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9acb\u5173\u8282", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u9acb\u5173\u8282\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Hip_Joint/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Gland/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u7532\u72b6\u817a\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Gland/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Retina/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89c6\u7f51\u819c", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u89c6\u7f51\u819c\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Retina/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Red_Bone_Marrow/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7ea2\u9aa8\u9ad3", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u7ea2\u9aa8\u9ad3\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Red_Bone_Marrow/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Spleen/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u813e\u810f", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u813e\u810f\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Spleen/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Adrenal_Gland/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80be\u4e0a\u817a", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80be\u4e0a\u817a\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Adrenal_Gland/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cerebellum/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5c0f\u8111", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u5c0f\u8111\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Cerebellum/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pons/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8111\u6865", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u8111\u6865\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Pons/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Fibula/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8153\u9aa8", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u8153\u9aa8\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Fibula/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pancreas/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f0\u817a", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80f0\u817a\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Pancreas/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Atrium/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5fc3\u623f", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u5fc3\u623f\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Atrium/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Ovaries/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5375\u5de2", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u5375\u5de2\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Ovaries/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Glomerulus/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80be\u5c0f\u7403", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80be\u5c0f\u7403\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Glomerulus/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Intestinal_Mucosa/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80a0\u9ecf\u819c", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80a0\u9ecf\u819c\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Intestinal_Mucosa/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Adrenal_Cortex/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80be\u4e0a\u817a\u76ae\u8d28", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80be\u4e0a\u817a\u76ae\u8d28\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Adrenal_Cortex/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Prostate_Gland/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u524d\u5217\u817a", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u524d\u5217\u817a\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Prostate_Gland/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Abdominal_Aorta/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8179\u4e3b\u52a8\u8109", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u8179\u4e3b\u52a8\u8109\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Abdominal_Aorta/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Rectum/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u76f4\u80a0", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u76f4\u80a0\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Rectum/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Talus/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8ddd\u9aa8", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u8ddd\u9aa8\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Talus/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Deltoid_Muscle/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u4e09\u89d2\u808c", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u4e09\u89d2\u808c\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Deltoid_Muscle/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Oblique_Muscle/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u659c\u89d2\u808c", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u659c\u89d2\u808c\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Oblique_Muscle/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Dura_Mater/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u786c\u8111\u819c", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u786c\u8111\u819c\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Dura_Mater/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cochlea/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8033\u8717", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u8033\u8717\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Cochlea/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Ribs/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u808b\u9aa8", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u808b\u9aa8\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Ribs/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Capillary/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u6bdb\u7ec6\u8840\u7ba1", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u6bdb\u7ec6\u8840\u7ba1\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Capillary/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Cartilage/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a\u8f6f\u9aa8", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u7532\u72b6\u817a\u8f6f\u9aa8\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Cartilage/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Tibia/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80eb\u9aa8", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80eb\u9aa8\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Tibia/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Hyoid_Bone/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u820c\u9aa8", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u820c\u9aa8\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Hyoid_Bone/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Islets_of_Langerhans/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f0\u5c9b", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80f0\u5c9b\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Islets_of_Langerhans/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cranial_Nerves/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9885\u795e\u7ecf", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u9885\u795e\u7ecf\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Cranial_Nerves/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Heart_Valves/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5fc3\u810f\u74e3\u819c", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u5fc3\u810f\u74e3\u819c\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Heart_Valves/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Lumbar_Spine/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8170\u690e", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u8170\u690e\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Lumbar_Spine/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thymus_Gland/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80f8\u817a", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80f8\u817a\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Thymus_Gland/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Vocal_Cords/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u58f0\u5e26", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u58f0\u5e26\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Vocal_Cords/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cerebral_Cortex/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5927\u8111\u76ae\u5c42", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u5927\u8111\u76ae\u5c42\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Cerebral_Cortex/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Gastric_Mucosa/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80c3\u9ecf\u819c", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80c3\u9ecf\u819c\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Gastric_Mucosa/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Optic_Nerve/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89c6\u795e\u7ecf", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u89c6\u795e\u7ecf\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Optic_Nerve/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Bronchial_Tubes/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u652f\u6c14\u7ba1", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u652f\u6c14\u7ba1\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Bronchial_Tubes/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Achilles_Tendon/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8ddf\u8171", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u8ddf\u8171\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Achilles_Tendon/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cornea/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u89d2\u819c", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u89d2\u819c\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Cornea/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Thyroid_Lobes/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u817a\u53f6", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u7532\u72b6\u817a\u53f6\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Thyroid_Lobes/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Mandible/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u4e0b\u988c\u9aa8", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u4e0b\u988c\u9aa8\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Mandible/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Scapula/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80a9\u80db\u9aa8", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80a9\u80db\u9aa8\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Scapula/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Pituitary_Gland/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u5782\u4f53", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u5782\u4f53\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Pituitary_Gland/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Ventricles_of_the_Brain/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8111\u5ba4", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u8111\u5ba4\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Ventricles_of_the_Brain/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Frontal_Lobe/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u989d\u53f6", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u989d\u53f6\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Frontal_Lobe/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Parathyroid_Glands/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u7532\u72b6\u65c1\u817a", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u7532\u72b6\u65c1\u817a\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Parathyroid_Glands/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cervical_Spine/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u9888\u690e", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u9888\u690e\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Cervical_Spine/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/White_Blood_Cells/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u767d\u7ec6\u80de", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u767d\u7ec6\u80de\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/White_Blood_Cells/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Cerebrospinal_Fluid/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u8111\u810a\u6db2", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u8111\u810a\u6db2\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Cerebrospinal_Fluid/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Sigmoid_Colon/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u4e59\u72b6\u7ed3\u80a0", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u4e59\u72b6\u7ed3\u80a0\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Sigmoid_Colon/4.wav"}, {"voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/ASR_knowledge/build_medical_cos/Bile_Duct/4.wav", "question": "What does the person say?please answer with \" The person says: xxxx\".", "answer": "\u80c6\u7ba1", "discript": "\u6211\u4eec\u6b63\u5728\u89c2\u5bdf\u7684\u662f\u80c6\u7ba1\uff0c\u8bf7\u5927\u5bb6\u770b\u4ed4\u7ec6\u3002", "voice_relative_path": "./build_medical_cos/Bile_Duct/4.wav"}]
+[
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "左心室",
+        "discript": "此处为左心室，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Left_Ventricle/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肱二头肌",
+        "discript": "此处为肱二头肌，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Biceps_Brachii/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "髋关节",
+        "discript": "此处为髋关节，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Hip_Joint/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺",
+        "discript": "此处为甲状腺，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Gland/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "视网膜",
+        "discript": "此处为视网膜，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Retina/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脾脏",
+        "discript": "此处为脾脏，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Spleen/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肾上腺",
+        "discript": "此处为肾上腺，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Adrenal_Gland/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "小脑",
+        "discript": "此处为小脑，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Cerebellum/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脑桥",
+        "discript": "此处为脑桥，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Pons/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腓骨",
+        "discript": "此处为腓骨，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Fibula/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胰腺",
+        "discript": "此处为胰腺，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Pancreas/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "心房",
+        "discript": "此处为心房，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Atrium/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肠黏膜",
+        "discript": "此处为肠黏膜，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Intestinal_Mucosa/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肾上腺皮质",
+        "discript": "此处为肾上腺皮质，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Adrenal_Cortex/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "前列腺",
+        "discript": "此处为前列腺，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Prostate_Gland/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腹主动脉",
+        "discript": "此处为腹主动脉，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Abdominal_Aorta/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "距骨",
+        "discript": "此处为距骨，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Talus/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "三角肌",
+        "discript": "此处为三角肌，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Deltoid_Muscle/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "硬脑膜",
+        "discript": "此处为硬脑膜，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Dura_Mater/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "耳蜗",
+        "discript": "此处为耳蜗，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Cochlea/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺软骨",
+        "discript": "此处为甲状腺软骨，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Cartilage/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胫骨",
+        "discript": "此处为胫骨，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Tibia/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "舌骨",
+        "discript": "此处为舌骨，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Hyoid_Bone/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胰岛",
+        "discript": "此处为胰岛，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Islets_of_Langerhans/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "心脏瓣膜",
+        "discript": "此处为心脏瓣膜，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Heart_Valves/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腰椎",
+        "discript": "此处为腰椎，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Lumbar_Spine/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腕骨",
+        "discript": "此处为腕骨，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Carpal_Bones/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胸腺",
+        "discript": "此处为胸腺，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Thymus_Gland/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "声带",
+        "discript": "此处为声带，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Vocal_Cords/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "大脑皮层",
+        "discript": "此处为大脑皮层，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Cerebral_Cortex/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胃黏膜",
+        "discript": "此处为胃黏膜，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Gastric_Mucosa/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "视神经",
+        "discript": "此处为视神经，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Optic_Nerve/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肝叶",
+        "discript": "此处为肝叶，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Liver_Lobes/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "支气管",
+        "discript": "此处为支气管，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Bronchial_Tubes/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "跟腱",
+        "discript": "此处为跟腱，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Achilles_Tendon/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "角膜",
+        "discript": "此处为角膜，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Cornea/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺叶",
+        "discript": "此处为甲状腺叶，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Lobes/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "下颌骨",
+        "discript": "此处为下颌骨，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Mandible/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肩胛骨",
+        "discript": "此处为肩胛骨，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Scapula/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "垂体",
+        "discript": "此处为垂体，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Pituitary_Gland/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脑室",
+        "discript": "此处为脑室，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Ventricles_of_the_Brain/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "额叶",
+        "discript": "此处为额叶，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Frontal_Lobe/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状旁腺",
+        "discript": "此处为甲状旁腺，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Parathyroid_Glands/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "颈椎",
+        "discript": "此处为颈椎，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Cervical_Spine/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脑脊液",
+        "discript": "此处为脑脊液，大家仔细看。",
+        "voice_relative_path": "./build_medical_cos/Cerebrospinal_Fluid/1.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "左心室",
+        "discript": "大家请看，左心室就在这里。",
+        "voice_relative_path": "./build_medical_cos/Left_Ventricle/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肱二头肌",
+        "discript": "大家请看，肱二头肌就在这里。",
+        "voice_relative_path": "./build_medical_cos/Biceps_Brachii/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "髋关节",
+        "discript": "大家请看，髋关节就在这里。",
+        "voice_relative_path": "./build_medical_cos/Hip_Joint/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺",
+        "discript": "大家请看，甲状腺就在这里。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Gland/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "视网膜",
+        "discript": "大家请看，视网膜就在这里。",
+        "voice_relative_path": "./build_medical_cos/Retina/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脾脏",
+        "discript": "大家请看，脾脏就在这里。",
+        "voice_relative_path": "./build_medical_cos/Spleen/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肾上腺",
+        "discript": "大家请看，肾上腺就在这里。",
+        "voice_relative_path": "./build_medical_cos/Adrenal_Gland/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "小脑",
+        "discript": "大家请看，小脑就在这里。",
+        "voice_relative_path": "./build_medical_cos/Cerebellum/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脑桥",
+        "discript": "大家请看，脑桥就在这里。",
+        "voice_relative_path": "./build_medical_cos/Pons/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胰腺",
+        "discript": "大家请看，胰腺就在这里。",
+        "voice_relative_path": "./build_medical_cos/Pancreas/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "心房",
+        "discript": "大家请看，心房就在这里。",
+        "voice_relative_path": "./build_medical_cos/Atrium/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "卵巢",
+        "discript": "大家请看，卵巢就在这里。",
+        "voice_relative_path": "./build_medical_cos/Ovaries/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肾小球",
+        "discript": "大家请看，肾小球就在这里。",
+        "voice_relative_path": "./build_medical_cos/Glomerulus/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肠黏膜",
+        "discript": "大家请看，肠黏膜就在这里。",
+        "voice_relative_path": "./build_medical_cos/Intestinal_Mucosa/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "前列腺",
+        "discript": "大家请看，前列腺就在这里。",
+        "voice_relative_path": "./build_medical_cos/Prostate_Gland/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腹主动脉",
+        "discript": "大家请看，腹主动脉就在这里。",
+        "voice_relative_path": "./build_medical_cos/Abdominal_Aorta/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "三角肌",
+        "discript": "大家请看，三角肌就在这里。",
+        "voice_relative_path": "./build_medical_cos/Deltoid_Muscle/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "斜角肌",
+        "discript": "大家请看，斜角肌就在这里。",
+        "voice_relative_path": "./build_medical_cos/Oblique_Muscle/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "硬脑膜",
+        "discript": "大家请看，硬脑膜就在这里。",
+        "voice_relative_path": "./build_medical_cos/Dura_Mater/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "耳蜗",
+        "discript": "大家请看，耳蜗就在这里。",
+        "voice_relative_path": "./build_medical_cos/Cochlea/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肋骨",
+        "discript": "大家请看，肋骨就在这里。",
+        "voice_relative_path": "./build_medical_cos/Ribs/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "毛细血管",
+        "discript": "大家请看，毛细血管就在这里。",
+        "voice_relative_path": "./build_medical_cos/Capillary/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺软骨",
+        "discript": "大家请看，甲状腺软骨就在这里。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Cartilage/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胫骨",
+        "discript": "大家请看，胫骨就在这里。",
+        "voice_relative_path": "./build_medical_cos/Tibia/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "舌骨",
+        "discript": "大家请看，舌骨就在这里。",
+        "voice_relative_path": "./build_medical_cos/Hyoid_Bone/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胰岛",
+        "discript": "大家请看，胰岛就在这里。",
+        "voice_relative_path": "./build_medical_cos/Islets_of_Langerhans/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "颅神经",
+        "discript": "大家请看，颅神经就在这里。",
+        "voice_relative_path": "./build_medical_cos/Cranial_Nerves/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "心脏瓣膜",
+        "discript": "大家请看，心脏瓣膜就在这里。",
+        "voice_relative_path": "./build_medical_cos/Heart_Valves/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腰椎",
+        "discript": "大家请看，腰椎就在这里。",
+        "voice_relative_path": "./build_medical_cos/Lumbar_Spine/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腕骨",
+        "discript": "大家请看，腕骨就在这里。",
+        "voice_relative_path": "./build_medical_cos/Carpal_Bones/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胸腺",
+        "discript": "大家请看，胸腺就在这里。",
+        "voice_relative_path": "./build_medical_cos/Thymus_Gland/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "声带",
+        "discript": "大家请看，声带就在这里。",
+        "voice_relative_path": "./build_medical_cos/Vocal_Cords/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "大脑皮层",
+        "discript": "大家请看，大脑皮层就在这里。",
+        "voice_relative_path": "./build_medical_cos/Cerebral_Cortex/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胃黏膜",
+        "discript": "大家请看，胃黏膜就在这里。",
+        "voice_relative_path": "./build_medical_cos/Gastric_Mucosa/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "视神经",
+        "discript": "大家请看，视神经就在这里。",
+        "voice_relative_path": "./build_medical_cos/Optic_Nerve/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肝叶",
+        "discript": "大家请看，肝叶就在这里。",
+        "voice_relative_path": "./build_medical_cos/Liver_Lobes/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "支气管",
+        "discript": "大家请看，支气管就在这里。",
+        "voice_relative_path": "./build_medical_cos/Bronchial_Tubes/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "跟腱",
+        "discript": "大家请看，跟腱就在这里。",
+        "voice_relative_path": "./build_medical_cos/Achilles_Tendon/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "角膜",
+        "discript": "大家请看，角膜就在这里。",
+        "voice_relative_path": "./build_medical_cos/Cornea/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺叶",
+        "discript": "大家请看，甲状腺叶就在这里。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Lobes/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "下颌骨",
+        "discript": "大家请看，下颌骨就在这里。",
+        "voice_relative_path": "./build_medical_cos/Mandible/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肩胛骨",
+        "discript": "大家请看，肩胛骨就在这里。",
+        "voice_relative_path": "./build_medical_cos/Scapula/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "垂体",
+        "discript": "大家请看，垂体就在这里。",
+        "voice_relative_path": "./build_medical_cos/Pituitary_Gland/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脑室",
+        "discript": "大家请看，脑室就在这里。",
+        "voice_relative_path": "./build_medical_cos/Ventricles_of_the_Brain/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "额叶",
+        "discript": "大家请看，额叶就在这里。",
+        "voice_relative_path": "./build_medical_cos/Frontal_Lobe/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状旁腺",
+        "discript": "大家请看，甲状旁腺就在这里。",
+        "voice_relative_path": "./build_medical_cos/Parathyroid_Glands/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "颈椎",
+        "discript": "大家请看，颈椎就在这里。",
+        "voice_relative_path": "./build_medical_cos/Cervical_Spine/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "白细胞",
+        "discript": "大家请看，白细胞就在这里。",
+        "voice_relative_path": "./build_medical_cos/White_Blood_Cells/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "乙状结肠",
+        "discript": "大家请看，乙状结肠就在这里。",
+        "voice_relative_path": "./build_medical_cos/Sigmoid_Colon/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "阑尾",
+        "discript": "大家请看，阑尾就在这里。",
+        "voice_relative_path": "./build_medical_cos/Appendix/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胆管",
+        "discript": "大家请看，胆管就在这里。",
+        "voice_relative_path": "./build_medical_cos/Bile_Duct/2.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "左心室",
+        "discript": "我们现在看到的是左心室，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Left_Ventricle/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肱二头肌",
+        "discript": "我们现在看到的是肱二头肌，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Biceps_Brachii/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺",
+        "discript": "我们现在看到的是甲状腺，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Gland/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "视网膜",
+        "discript": "我们现在看到的是视网膜，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Retina/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "红骨髓",
+        "discript": "我们现在看到的是红骨髓，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Red_Bone_Marrow/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脾脏",
+        "discript": "我们现在看到的是脾脏，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Spleen/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肾上腺",
+        "discript": "我们现在看到的是肾上腺，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Adrenal_Gland/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "小脑",
+        "discript": "我们现在看到的是小脑，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Cerebellum/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脑桥",
+        "discript": "我们现在看到的是脑桥，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Pons/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腓骨",
+        "discript": "我们现在看到的是腓骨，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Fibula/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胰腺",
+        "discript": "我们现在看到的是胰腺，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Pancreas/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "心房",
+        "discript": "我们现在看到的是心房，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Atrium/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "卵巢",
+        "discript": "我们现在看到的是卵巢，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Ovaries/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肾小球",
+        "discript": "我们现在看到的是肾小球，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Glomerulus/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肠黏膜",
+        "discript": "我们现在看到的是肠黏膜，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Intestinal_Mucosa/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肾上腺皮质",
+        "discript": "我们现在看到的是肾上腺皮质，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Adrenal_Cortex/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "前列腺",
+        "discript": "我们现在看到的是前列腺，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Prostate_Gland/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腹主动脉",
+        "discript": "我们现在看到的是腹主动脉，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Abdominal_Aorta/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "直肠",
+        "discript": "我们现在看到的是直肠，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Rectum/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "斜角肌",
+        "discript": "我们现在看到的是斜角肌，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Oblique_Muscle/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "硬脑膜",
+        "discript": "我们现在看到的是硬脑膜，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Dura_Mater/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "耳蜗",
+        "discript": "我们现在看到的是耳蜗，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Cochlea/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肋骨",
+        "discript": "我们现在看到的是肋骨，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Ribs/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "毛细血管",
+        "discript": "我们现在看到的是毛细血管，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Capillary/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺软骨",
+        "discript": "我们现在看到的是甲状腺软骨，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Cartilage/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胫骨",
+        "discript": "我们现在看到的是胫骨，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Tibia/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "舌骨",
+        "discript": "我们现在看到的是舌骨，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Hyoid_Bone/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胰岛",
+        "discript": "我们现在看到的是胰岛，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Islets_of_Langerhans/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "颅神经",
+        "discript": "我们现在看到的是颅神经，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Cranial_Nerves/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "心脏瓣膜",
+        "discript": "我们现在看到的是心脏瓣膜，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Heart_Valves/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腰椎",
+        "discript": "我们现在看到的是腰椎，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Lumbar_Spine/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腕骨",
+        "discript": "我们现在看到的是腕骨，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Carpal_Bones/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胸腺",
+        "discript": "我们现在看到的是胸腺，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Thymus_Gland/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "声带",
+        "discript": "我们现在看到的是声带，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Vocal_Cords/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "大脑皮层",
+        "discript": "我们现在看到的是大脑皮层，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Cerebral_Cortex/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胃黏膜",
+        "discript": "我们现在看到的是胃黏膜，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Gastric_Mucosa/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "视神经",
+        "discript": "我们现在看到的是视神经，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Optic_Nerve/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肝叶",
+        "discript": "我们现在看到的是肝叶，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Liver_Lobes/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "支气管",
+        "discript": "我们现在看到的是支气管，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Bronchial_Tubes/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "跟腱",
+        "discript": "我们现在看到的是跟腱，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Achilles_Tendon/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "角膜",
+        "discript": "我们现在看到的是角膜，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Cornea/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺叶",
+        "discript": "我们现在看到的是甲状腺叶，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Lobes/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "下颌骨",
+        "discript": "我们现在看到的是下颌骨，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Mandible/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肩胛骨",
+        "discript": "我们现在看到的是肩胛骨，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Scapula/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "垂体",
+        "discript": "我们现在看到的是垂体，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Pituitary_Gland/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脑室",
+        "discript": "我们现在看到的是脑室，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Ventricles_of_the_Brain/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "额叶",
+        "discript": "我们现在看到的是额叶，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Frontal_Lobe/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状旁腺",
+        "discript": "我们现在看到的是甲状旁腺，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Parathyroid_Glands/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "颈椎",
+        "discript": "我们现在看到的是颈椎，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Cervical_Spine/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "白细胞",
+        "discript": "我们现在看到的是白细胞，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/White_Blood_Cells/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "乙状结肠",
+        "discript": "我们现在看到的是乙状结肠，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Sigmoid_Colon/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "阑尾",
+        "discript": "我们现在看到的是阑尾，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Appendix/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胆管",
+        "discript": "我们现在看到的是胆管，它就是这个样子的。",
+        "voice_relative_path": "./build_medical_cos/Bile_Duct/3.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "左心室",
+        "discript": "我们正在观察的是左心室，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Left_Ventricle/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肱二头肌",
+        "discript": "我们正在观察的是肱二头肌，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Biceps_Brachii/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "髋关节",
+        "discript": "我们正在观察的是髋关节，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Hip_Joint/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺",
+        "discript": "我们正在观察的是甲状腺，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Gland/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "视网膜",
+        "discript": "我们正在观察的是视网膜，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Retina/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "红骨髓",
+        "discript": "我们正在观察的是红骨髓，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Red_Bone_Marrow/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脾脏",
+        "discript": "我们正在观察的是脾脏，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Spleen/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肾上腺",
+        "discript": "我们正在观察的是肾上腺，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Adrenal_Gland/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "小脑",
+        "discript": "我们正在观察的是小脑，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Cerebellum/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脑桥",
+        "discript": "我们正在观察的是脑桥，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Pons/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腓骨",
+        "discript": "我们正在观察的是腓骨，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Fibula/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胰腺",
+        "discript": "我们正在观察的是胰腺，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Pancreas/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "心房",
+        "discript": "我们正在观察的是心房，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Atrium/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "卵巢",
+        "discript": "我们正在观察的是卵巢，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Ovaries/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肾小球",
+        "discript": "我们正在观察的是肾小球，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Glomerulus/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肠黏膜",
+        "discript": "我们正在观察的是肠黏膜，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Intestinal_Mucosa/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肾上腺皮质",
+        "discript": "我们正在观察的是肾上腺皮质，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Adrenal_Cortex/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "前列腺",
+        "discript": "我们正在观察的是前列腺，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Prostate_Gland/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腹主动脉",
+        "discript": "我们正在观察的是腹主动脉，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Abdominal_Aorta/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "直肠",
+        "discript": "我们正在观察的是直肠，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Rectum/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "距骨",
+        "discript": "我们正在观察的是距骨，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Talus/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "三角肌",
+        "discript": "我们正在观察的是三角肌，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Deltoid_Muscle/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "斜角肌",
+        "discript": "我们正在观察的是斜角肌，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Oblique_Muscle/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "硬脑膜",
+        "discript": "我们正在观察的是硬脑膜，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Dura_Mater/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "耳蜗",
+        "discript": "我们正在观察的是耳蜗，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Cochlea/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肋骨",
+        "discript": "我们正在观察的是肋骨，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Ribs/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "毛细血管",
+        "discript": "我们正在观察的是毛细血管，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Capillary/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺软骨",
+        "discript": "我们正在观察的是甲状腺软骨，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Cartilage/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胫骨",
+        "discript": "我们正在观察的是胫骨，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Tibia/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "舌骨",
+        "discript": "我们正在观察的是舌骨，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Hyoid_Bone/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胰岛",
+        "discript": "我们正在观察的是胰岛，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Islets_of_Langerhans/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "颅神经",
+        "discript": "我们正在观察的是颅神经，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Cranial_Nerves/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "心脏瓣膜",
+        "discript": "我们正在观察的是心脏瓣膜，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Heart_Valves/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "腰椎",
+        "discript": "我们正在观察的是腰椎，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Lumbar_Spine/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胸腺",
+        "discript": "我们正在观察的是胸腺，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Thymus_Gland/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "声带",
+        "discript": "我们正在观察的是声带，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Vocal_Cords/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "大脑皮层",
+        "discript": "我们正在观察的是大脑皮层，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Cerebral_Cortex/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胃黏膜",
+        "discript": "我们正在观察的是胃黏膜，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Gastric_Mucosa/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "视神经",
+        "discript": "我们正在观察的是视神经，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Optic_Nerve/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "支气管",
+        "discript": "我们正在观察的是支气管，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Bronchial_Tubes/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "跟腱",
+        "discript": "我们正在观察的是跟腱，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Achilles_Tendon/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "角膜",
+        "discript": "我们正在观察的是角膜，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Cornea/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状腺叶",
+        "discript": "我们正在观察的是甲状腺叶，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Thyroid_Lobes/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "下颌骨",
+        "discript": "我们正在观察的是下颌骨，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Mandible/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "肩胛骨",
+        "discript": "我们正在观察的是肩胛骨，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Scapula/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "垂体",
+        "discript": "我们正在观察的是垂体，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Pituitary_Gland/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脑室",
+        "discript": "我们正在观察的是脑室，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Ventricles_of_the_Brain/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "额叶",
+        "discript": "我们正在观察的是额叶，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Frontal_Lobe/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "甲状旁腺",
+        "discript": "我们正在观察的是甲状旁腺，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Parathyroid_Glands/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "颈椎",
+        "discript": "我们正在观察的是颈椎，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Cervical_Spine/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "白细胞",
+        "discript": "我们正在观察的是白细胞，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/White_Blood_Cells/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "脑脊液",
+        "discript": "我们正在观察的是脑脊液，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Cerebrospinal_Fluid/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "乙状结肠",
+        "discript": "我们正在观察的是乙状结肠，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Sigmoid_Colon/4.wav"
+    },
+    {
+        "question": "What does the person say?please answer with \" The person says: xxxx\".",
+        "answer": "胆管",
+        "discript": "我们正在观察的是胆管，请大家看仔细。",
+        "voice_relative_path": "./build_medical_cos/Bile_Duct/4.wav"
+    }
+]

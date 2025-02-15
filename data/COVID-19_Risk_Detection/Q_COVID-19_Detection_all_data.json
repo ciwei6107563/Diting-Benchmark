@@ -1,842 +1,722 @@
 [
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-7.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-7.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-7.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-7.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-6.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-6.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-7.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-7.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-8.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-8.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-9.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-9.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-6.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-6.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-9.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-9.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-8.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-8.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-7.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-7.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-6.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-6.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-6.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-6.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-10.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-10.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-6.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-6.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-7.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-7.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "yes",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-8.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-8.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-9.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-9.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-10.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-10.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-6.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-6.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-10.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-10.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-7.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-7.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-090-cough-f-17-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-090-cough-f-17-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-9.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-9.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-7.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-7.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-11.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-11.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-091-cough-m-47-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-091-cough-m-47-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-090-cough-f-17-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-090-cough-f-17-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-085-cough-m-43-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-085-cough-m-43-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-6.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-6.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-8.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-8.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-6.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-6.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-9.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-9.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-085-cough-m-43-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-085-cough-m-43-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-7.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-7.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-6.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-6.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-14.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-14.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-12.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-12.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-2.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-2.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-090-cough-f-17-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-090-cough-f-17-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-5.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-5.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-3.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-8.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-8.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-7.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-7.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-0.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-0.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-091-cough-m-47-1.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-091-cough-m-47-1.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-13.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-13.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-6.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-6.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-4.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-4.wav"
-  },
-  {
-    "voice_absolute_path": "/mnt/user/bufan/speech_data/speech_wav/CoughSegmentationData/virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-3.wav",
-    "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
-    "answer": "no",
-    "discript": "",
-    "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-3.wav"
-  }
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-7.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-7.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-6.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-7.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-8.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-9.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-6.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-9.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-8.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-7.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-084-cough-m-50-6.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-6.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-093-cough-f-24-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-094-cough-m-51-10.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0422-096-cough-m-31-6.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-086-cough-m-65-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-092-cough-m-53-7.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "yes",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/pos/pos-0421-087-cough-f-40-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-8.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-9.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-10.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-6.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-10.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-7.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-090-cough-f-17-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-9.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-7.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-11.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-091-cough-m-47-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-090-cough-f-17-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-085-cough-m-43-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-6.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-8.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-6.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-9.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-085-cough-m-43-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-7.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-6.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-14.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-089-cough-f-20-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-12.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-088-cough-f-66-2.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-090-cough-f-17-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-5.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-3.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-8.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-7.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-098-cough-f-24-0.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-091-cough-m-47-1.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-13.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-097-cough-m-37-6.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0422-095-cough-m-53-4.wav"
+    },
+    {
+        "question": "Please listen to the following cough sound and determine whether the person is at risk of having a COVID-19 infection. Respond with 'yes' or 'no'",
+        "answer": "no",
+        "discript": "",
+        "voice_relative_path": "./virufy-data/clinical/segment/neg/neg-0421-083-cough-m-53-3.wav"
+    }
 ]

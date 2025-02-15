@@ -8,6 +8,9 @@ All of the current data is available in this GitHub repository and can be found 
 
 We have noticed that downloading the data may be somewhat difficult. However, due to the anonymous review process of ARR, we are unable to upload the data to Hugging Face. After the review process is completed, in order to facilitate downloading and use of our evaluation data, we will upload the entire dataset to Hugging Face.
 
+Meanwhile, to help you further understand our data sources, we have uploaded the code used to process these data in `data_process`.
+
+
 ## Test
 
 You can test your model by modifying the template code we provided, or you can contact us (contact information will be shared after the review process is complete) and we can perform the testing on your behalf. Alternatively, you can also reach out to us via the issue tracker.

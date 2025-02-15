@@ -1,4 +1,4 @@
-# speech Understanding Level (SUL) Benchmark
+# Speech Understanding Level (SUL) Benchmark
 
 At this stage, we will open-source our data and testing code, and later we will open-source our complete data construction code.
 

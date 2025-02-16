@@ -41,7 +41,7 @@ def dump_json(json_filename, dump_data):
 
 
 # 读取CSV文件
-df = pd.read_csv('/wangbenyou/bufan/speech_wav/SpeechAccentArchive/speakers_all.csv')  # 请将 'your_file.csv' 替换为您的实际文件路径
+df = pd.read_csv('~/speech_wav/SpeechAccentArchive/speakers_all.csv')  # 请将 'your_file.csv' 替换为您的实际文件路径
 
 # 提取 "filename" 和 "age" 列
 filenames = df['filename'].tolist()
@@ -53,8 +53,8 @@ birthplaces = df["birthplace"].tolist()
 # native_language,sex,birthplace
 all_list = list()
 
-wav16000_dir = "/wangbenyou/bufan/speech_wav/SpeechAccentArchive/build"
-build_f0 = "/wangbenyou/bufan/speech_wav/SpeechAccentArchive/build_f0"
+wav16000_dir = "/~/speech_wav/SpeechAccentArchive/build"
+build_f0 = "~/speech_wav/SpeechAccentArchive/build_f0"
 
 count_dict = dict()
 # 打印结果

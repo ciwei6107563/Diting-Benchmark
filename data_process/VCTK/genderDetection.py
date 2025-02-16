@@ -44,10 +44,10 @@ def get_speaker_gender(speaker_dict,speaker):
 
 
 
-speaker_filepath = "~/speech_data/speech_wav/VCTK/VCTK-Corpus/speaker-info.txt"
+speaker_filepath = "~/speech_wav/VCTK/VCTK-Corpus/speaker-info.txt"
 speaker_dict = read_spk_file(speaker_filepath)
 
-base_wav_dir = "~/speech_data/speech_wav/VCTK/VCTK-Corpus/wav48"
+base_wav_dir = "~/speech_wav/VCTK/VCTK-Corpus/wav48"
 all_list = list()
 for speaker_dir in os.listdir(base_wav_dir):
     if speaker_dir not in speaker_dict.keys():

@@ -12,7 +12,6 @@ filtered_df = df.dropna(subset=columns_to_check, how='all')
 # 保存结果到新的CSV文件
 filtered_df.to_csv('filtered_file.csv', index=False)
 
-print("过滤完成，已保存新的CSV文件")
 
 # 指定要检查的列
 columns_to_check = ['quality_1', 'quality_2', 'quality_3', 'quality_4']

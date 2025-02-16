@@ -24,7 +24,7 @@ def dump_json(json_filename, dump_data):
 
 
 # 指定文件夹路径
-base_dir = "/wangbenyou/bufan/dataset/CoughVID/coughvid_20211012"
+base_dir = "~/dataset/CoughVID/coughvid_20211012"
 # 遍历文件夹中的所有文件
 all_list = list()
 wet_filepath = './origin/four_non_nan_COVID-19.csv'  # 替换为你的 CSV 文件路径

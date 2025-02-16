@@ -43,7 +43,7 @@ if __name__ == "__main__":
 
     for normal_filepath in list1:
         sample = dict(
-            voice_relative_path=normal_filepath.replace("/home/zhiyu/speech_data/LungSongs/Audio Files",""),
+            voice_relative_path=normal_filepath.replace("~/speech_data/LungSongs/Audio Files",""),
             question="Do you think this lung breathing sound is healthy? Please answer with 'yes' or 'no'.",
             answer="yes",
             discript=f"",
@@ -51,7 +51,7 @@ if __name__ == "__main__":
         all_list.append(sample)
     for un_normal_filepath in list1:
         sample = dict(
-            voice_relative_path=un_normal_filepath.replace("/home/zhiyu/speech_data/LungSongs/Audio Files",""),
+            voice_relative_path=un_normal_filepath.replace("~/speech_data/LungSongs/Audio Files",""),
             question="Do you think this lung breathing sound is healthy? Please answer with 'yes' or 'no'.",
             answer="no",
             discript=f"",

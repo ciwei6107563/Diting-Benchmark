@@ -23,7 +23,7 @@ def dump_json(json_filename, dump_data):
     with open(osp.join(json_out_dir, json_filename), 'w') as f:
         json.dump(dump_data, f)
 
-air_bench_base = "/wangbenyou/bufan/speech_wav/AIR-Bench-Dataset/Foundation/Speaker_Age_Prediction_common_voice_13.0_en"
+air_bench_base = "~/speech_wav/AIR-Bench-Dataset/Foundation/Speaker_Age_Prediction_common_voice_13.0_en"
 with open(filepath, 'r') as file:
     datas = json.load(file)
     for data in datas:

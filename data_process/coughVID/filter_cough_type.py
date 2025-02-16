@@ -1,24 +1,24 @@
 import pandas as pd
 
 # 读取CSV文件
-df = pd.read_csv(r'C:\Users\23225\PycharmProjects\SpeechDataPreprocess\coughVID\four_non_nan.csv')
+df = pd.read_csv(r'~SpeechDataPreprocess\coughVID\four_non_nan.csv')
 
 # 筛选至少有三列专家判定为 'wet' 的行
 # axis=1 表示按行进行判断
 filtered_df = df[(df[['cough_type_1', 'cough_type_2', 'cough_type_3', 'cough_type_4']] == 'wet').sum(axis=1) >= 3]
 
 # 将筛选结果保存为新的CSV文件
-filtered_df.to_csv(r'C:\Users\23225\PycharmProjects\SpeechDataPreprocess\coughVID\four_non_nan_wet.csv.csv', index=False)
+filtered_df.to_csv(r'C:~SpeechDataPreprocess\coughVID\four_non_nan_wet.csv.csv', index=False)
 
 
 filtered_df = df[(df[['cough_type_1', 'cough_type_2', 'cough_type_3', 'cough_type_4']] == 'dry').sum(axis=1) >= 3]
 
 # 将筛选结果保存为新的CSV文件
-filtered_df.to_csv(r'C:\Users\23225\PycharmProjects\SpeechDataPreprocess\coughVID\four_non_nan_dry.csv.csv', index=False)
+filtered_df.to_csv(r'C:~SpeechDataPreprocess\coughVID\four_non_nan_dry.csv.csv', index=False)
 
 
 # 读取CSV文件
-df = pd.read_csv(r'C:\Users\23225\PycharmProjects\SpeechDataPreprocess\coughVID\one_non_nan.csv')
+df = pd.read_csv(r'~SpeechDataPreprocess\coughVID\one_non_nan.csv')
 
 
 nan_count = df[['cough_type_1', 'cough_type_2', 'cough_type_3', 'cough_type_4']].isna().sum(axis=1)

@@ -12,10 +12,20 @@ Meanwhile, to help you further understand our data sources, we have uploaded the
 
 
 ## Test
+You can test your model by modifying the template code (`\test_script\test_your_model.py`) we provided, or you can contact us (contact information will be shared after the review process is complete) and we can perform the testing on your behalf. Alternatively, you can also reach out to us via the issue tracker.
 
-You can test your model by modifying the template code we provided, or you can contact us (contact information will be shared after the review process is complete) and we can perform the testing on your behalf. Alternatively, you can also reach out to us via the issue tracker.
+To make rewriting our template easier, you can refer to the example we provided. (`\test_script\test_qwen2-audio.py`)
+## Metric
+We have also made our Metric publicly available in `/metric`. Specifically:
 
-## 
+`metric/classifier` is for various classification tasks, the metric calculated is accuracy.
+
+`metric/gpt_judge` is for various classification tasks, the metric calculated is the GPT score.
+
+`metric/knowledge` is for various proper noun transcription tasks, the metric calculated is accuracy.
+
+`metric/wer` is for various transcription tasks, such as ASR (Automatic Speech Recognition), ALR (Automatic Lyrics Recognition), the metric calculated is WER (Word Error Rate).
+
 
 ## Result
 

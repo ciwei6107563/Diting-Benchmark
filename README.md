@@ -6,7 +6,7 @@ At this stage, we will open-source our data and testing code, and later we will 
 
 All of the current data is available in this GitHub repository and can be found under the `\data` folder.
 
-We have noticed that downloading the data may be somewhat difficult. However, due to the anonymous review process of ARR, we are unable to upload the data to Hugging Face. After the review process is completed, in order to facilitate downloading and use of our evaluation data, we will upload the entire dataset to Hugging Face.
+You can also download our dataset from [Hugging Face](https://huggingface.co/datasets/FreedomIntelligence/DitingBench).
 
 Meanwhile, to help you further understand our data sources, we have uploaded the code used to process these data in `data_process`.
 
@@ -32,10 +32,10 @@ We have also made our Metric publicly available in `/metric`. Specifically:
 | **Level** | **Task**                     | **Human Baseline** | **GPT-4o** | **MuLLaMA** | **GAMA** | **SALMONN** | **Qwen2-Audio** |
 |-----------|------------------------------|--------------------|------------|-------------|----------|-------------|-----------------|
 | **L1**    | Language Identification       | ✘                  | 88.50%     | 8.48%       | ✘        | 35.17%      | 96.44%          |
-|           | Auto-Speech Recognition       | 15.49$^*$          | 10.24$^*$  | ✘           | ✘        | 5.45$^*$    | 4.63$^*$        |
+|           | Auto-Speech Recognition       | 15.49*         | 10.24*  | ✘           | ✘        | 5.45*    | 4.63*        |
 |           | ASR for Legal Terms           | 98.50%             | 26.47%     | ✘           | ✘        | ✘           | 81.04%          |
 |           | ASR for Medical Terms         | 97.50%             | 41.87%     | ✘           | ✘        | ✘           | 53.86%          |
-|           | Auto-Lyrics Transcription     | 26.88$^*$          | ✘          | ✘           | ✘        | 77.12$^*$   | 32.48$^*$       |
+|           | Auto-Lyrics Transcription     | 26.88*          | ✘          | ✘           | ✘        | 77.12*   | 32.48*       |
 |           | - Hallucination Rate          | 3.00%              | ✘          | ✘           | ✘        | 29.26%      | 38.21%          |
 | **L2**    | Volume Perception             | 100.00%            | ✘          | 50.00%      | 11.98%   | 53.22%      | 48.96%          |
 |           | Pitch Perception              | 96.25%             | 29.33%     | 33.78%      | 41.50%   | 50.00%      | 50.00%          |

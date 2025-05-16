@@ -1,6 +1,9 @@
 # Diting Benchmark
 
-At this stage, we will open-source our data and testing code, and later we will open-source our complete data construction code.
+[Our paper]()  
+[Huggingface](https://huggingface.co/datasets/FreedomIntelligence/DitingBench)
+
+Our benchmark is designed to evaluate the speech comprehension capabilities of Speech LLMs. We tested both humans and Speech LLMs in terms of speech understanding and provided further analysis of the results, along with a comparative study between the two. This offers insights for the future development of Speech LLMs. For more details, please refer to our paper.
 
 ## DataSet
 
